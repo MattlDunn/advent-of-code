@@ -1,4 +1,4 @@
-in_txt = open('Dec1.in', 'r')
+in_txt = open('Full.in', 'r')
 
 max_cals = 0
 cur = 0

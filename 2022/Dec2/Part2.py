@@ -1,4 +1,4 @@
-in_txt = open('Dec2.in', 'r')
+in_txt = open('Full.in', 'r')
 
 you_beat = {
     "A": 2,

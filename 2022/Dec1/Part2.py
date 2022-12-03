@@ -1,4 +1,4 @@
-in_txt = open('Dec1.in', 'r')
+in_txt = open('Full.in', 'r')
 
 first = 0
 second = 0
