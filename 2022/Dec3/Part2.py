@@ -1,4 +1,4 @@
-in_txt = open('Dec3.in', 'r')
+in_txt = open('Full.in', 'r')
 
 sum = 0
 should_continue = True
